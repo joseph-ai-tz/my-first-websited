@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="style.css">
+<h1>Hello, I am Joseph</h1>
+<p>I am learning Software Engineering and Data science.</p>
+<p> My NECTA point: 10 - Maths B, Physics C, Chemistry C</p>
+<h2>My skills</h2>
+<p>Python, VS code, If/Else, Loop, Dictionary</p>
+<button onclick="alert('Hello! I am Joseph, future Software Engineer!')">Click Me</button>
+<button onclick="document.body.style.backgroundColor='yellow'">Make It Yellow</button>
+<button onclick="document.body.style.backgroundColor='lightblue'">Make It Blue Again</button>
+
